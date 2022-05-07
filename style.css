@@ -1,0 +1,107 @@
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url(./images/Background.jpg);
+        }
+        /****************grid 1********************/
+        
+        #grid1-1 {
+            position: absolute;
+            left: 0px;
+            top: 0px;
+        }
+        
+        #grid1-2 {
+            position: absolute;
+            left: 200px;
+            top: 0px;
+        }
+        
+        #grid1-3 {
+            position: absolute;
+            left: 400px;
+            top: 0px;
+        }
+        /****************grid 2********************/
+        
+        #grid2-1 {
+            position: absolute;
+            left: 0px;
+            top: 200px;
+        }
+        
+        #grid2-2 {
+            position: absolute;
+            left: 200px;
+            top: 200px;
+        }
+        
+        #grid2-3 {
+            position: absolute;
+            left: 400px;
+            top: 200px;
+        }
+        /****************grid 3********************/
+        
+        #grid3-1 {
+            position: absolute;
+            left: 0px;
+            top: 400px;
+        }
+        
+        #grid3-2 {
+            position: absolute;
+            left: 200px;
+            top: 400px;
+        }
+        
+        #grid3-3 {
+            position: absolute;
+            left: 400px;
+            top: 400px;
+        }
+        /*********** Puzzle Pieces ****************/
+        
+        #img1-1-draggable {
+            right: -610px;
+            top: -50px;
+        }
+        
+        #img1-2-draggable {
+            right: -650px;
+        }
+        
+        #img1-3-draggable {
+            right: -600px;
+            top: -25px;
+        }
+        
+        #img2-1-draggable {
+            right: -680px;
+        }
+        
+        #img2-2-draggable {
+            right: -615px;
+            top: -15px;
+        }
+        
+        #img2-3-draggable {
+            right: -700px;
+        }
+        
+        #img3-3-draggable {
+            right: -600px;
+            top: -15px;
+        }
+        
+        #img3-2-draggable {
+            right: -650px;
+            top: -25px;
+        }
+        
+        #img3-1-draggable {
+            right: -602px;
+            top: -50px;
+        }
